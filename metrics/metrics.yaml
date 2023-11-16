@@ -1,0 +1,6 @@
+plugins:
+  - activity
+  - languages
+  - stars
+  - commits
+  - issues
